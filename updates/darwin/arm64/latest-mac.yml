@@ -1,8 +1,12 @@
-version: 0.2.1
+version: 0.2.2
 files:
-  - url: https://github.com/jfdet/guitarlab-downloads/releases/download/v0.2.1/Guitar-Lab-0.2.1-mac-arm64.zip
-    sha512: EZ3XwOXxldFbhlvsKpx5IFTunms3Hf3SgeKN90ZgIXxLqBxnhqf1WawK6AGUVXxPzxBtVrhaR0Ot5DUN3dcS4A==
-    size: 230344546
-path: https://github.com/jfdet/guitarlab-downloads/releases/download/v0.2.1/Guitar-Lab-0.2.1-mac-arm64.zip
-sha512: EZ3XwOXxldFbhlvsKpx5IFTunms3Hf3SgeKN90ZgIXxLqBxnhqf1WawK6AGUVXxPzxBtVrhaR0Ot5DUN3dcS4A==
-releaseDate: '2026-11-15T17:01:08.019Z'
+  - url: >-
+      https://github.com/jfdet/guitarlab-downloads/releases/download/v0.2.2/Guitar-Lab-0.2.2-mac-arm64.zip
+    sha512: >-
+      kwZ3PgclRcSPhRFeLEcI/9FcCTUZw6eQ7ph2d4h7mdfcz/MtgRMyNK03t0UEXRRhtfqCX3J7e6dMZIPFCk1zEQ==
+    size: 230263928
+path: >-
+  https://github.com/jfdet/guitarlab-downloads/releases/download/v0.2.2/Guitar-Lab-0.2.2-mac-arm64.zip
+sha512: >-
+  kwZ3PgclRcSPhRFeLEcI/9FcCTUZw6eQ7ph2d4h7mdfcz/MtgRMyNK03t0UEXRRhtfqCX3J7e6dMZIPFCk1zEQ==
+releaseDate: '2026-11-22T14:42:56.294Z'
